@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Chennai Institute of Technology</title>
+</head>
+<body>
+
+    <!-- Title -->
+    <h1 style="text-align: center;">Welcome to Chennai Institute of Technology</h1>
+
+    <!-- Background Image -->
+    <img src="https://via.placeholder.com/1200x400" alt="Chennai Institute of Technology" style="width: 100%; height: auto;">
+
+    <!-- About the Institute -->
+    <h2>About Chennai Institute of Technology</h2>
+    <p>Chennai Institute of Technology (CIT) is one of the premier institutions in Chennai. It provides quality education, focusing on practical learning and research. CIT is known for its state-of-the-art infrastructure, excellent faculty, and student-centric programs.</p>
+
+    <!-- Key Features -->
+    <h2>Why Choose CIT?</h2>
+    <ul>
+        <li>World-class infrastructure with cutting-edge laboratories.</li>
+        <li>Strong focus on innovation and research.</li>
+        <li>Industry collaborations for better exposure and placements.</li>
+        <li>Highly qualified and experienced faculty members.</li>
+        <li>Wide range of programs in engineering, management, and technology.</li>
+    </ul>
+
+    <!-- Achievements -->
+    <h2>Achievements</h2>
+    <p>Chennai Institute of Technology has been recognized for excellence in education and innovation. It has won several awards in the fields of research and academic excellence, and has a strong reputation for producing skilled graduates who excel in their fields.</p>
+
+    <!-- Contact Information -->
+    <h2>Contact Us</h2>
+    <p>Address: Chennai Institute of Technology, Sarathy Nagar, Kundrathur, Chennai - 600069, Tamil Nadu, India</p>
+    <p>Email: info@cit.edu.in</p>
+    <p>Phone: +91 44 7122 1222</p>
+
+</body>
+</html>
